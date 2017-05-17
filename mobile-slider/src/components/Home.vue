@@ -1,7 +1,9 @@
 <template>
   <div>
     <app-nav-bar></app-nav-bar>
+    <transition name="slide" mode="out-in">
       <router-view></router-view>
+    </transition>
     <app-footer-nav></app-footer-nav>
   </div>
 </template>
