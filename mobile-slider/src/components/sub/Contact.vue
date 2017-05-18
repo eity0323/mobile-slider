@@ -16,6 +16,8 @@ export default {
 	.contact-container{
 		border:1px dotted red;
 		flex:1;
+		position: absolute;
+		width: 100vw;
 		/*height: 100%;*/
 		height:90vh;
 		padding: 7% 20%;

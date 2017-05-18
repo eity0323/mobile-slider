@@ -17,6 +17,9 @@ export default {
 		border:1px dotted red;
 		flex:1;
 		height:90vh;
+		width: 100vw;
+		position: absolute;
+
 		/*height:100%;*/
 		padding: 7% 20%;
 		background: #FF8008;
