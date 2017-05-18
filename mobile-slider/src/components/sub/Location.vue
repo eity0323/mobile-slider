@@ -16,7 +16,8 @@ export default {
 	.location-container{
 		border:1px dotted red;
 		flex:1;
-		height: 100%;
+		/*height: 100%;*/
+		height:90vh;
 		padding: 7% 20%;
 		background: #1D976C;  
 		background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  

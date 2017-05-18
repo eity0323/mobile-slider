@@ -16,7 +16,8 @@ export default {
 	.main-container{
 		border:1px dotted red;
 		flex:1;
-		height:100%;
+		height:90vh;
+		/*height:100%;*/
 		padding: 7% 20%;
 		background: #FF8008;
 		background: -webkit-linear-gradient(to right, #FFC837, #FF8008); 

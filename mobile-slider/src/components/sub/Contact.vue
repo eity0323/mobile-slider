@@ -16,7 +16,8 @@ export default {
 	.contact-container{
 		border:1px dotted red;
 		flex:1;
-		height: 100%;
+		/*height: 100%;*/
+		height:90vh;
 		padding: 7% 20%;
 		background: #EB3349;
 		background: -webkit-linear-gradient(to right, #F45C43, #EB3349);  
